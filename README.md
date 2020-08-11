@@ -1,2 +1,2 @@
 # rjcline07.github.io
-Repo containing highlighted projects I have worked on.
+Welcome to my Github page! This has contains some highlighted projects that I have worked on.
